@@ -1,14 +1,18 @@
-<h1 align="center">Hey👋, I'm Naman Verma</h1>
+<h1 align="center">Hey👋🏻, I'm Naman Verma</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">Hi there! I'm Naman Verma, a final-year student at Shri Shankaracharya Professional University.
+<h3 align="center">
 
-My Passion: Technology and innovation fuel my drive!
+Hey there! I'm Naman Verma, a final-year student at Shri Shankaracharya Professional University🎓
 
-Skills I Bring:
+My Passion: Technology & Innovation fuel my drive!🌟
 
-Programming Languages: Python, Java, SQL
-ML & AI: Tensorflow, NLP, LLMs, Generative AI
-Frameworks & APIs: VS Code, Jupyter Notebook, MS-Office, Flask, REST-API
+🔎 Skills I Bring:
+  
+💻 Programming Languages: Python, Java, SQL
+
+🤖 ML & AI: Tensorflow, NLP, LLMs, Generative AI
+
+🚀 Frameworks & APIs: VS Code, Jupyter Notebook, MS-Office, Flask, REST-API
 
 </h3>
 
@@ -16,21 +20,18 @@ Frameworks & APIs: VS Code, Jupyter Notebook, MS-Office, Flask, REST-API
   
 - 🌱 I’m currently learning **Data Science & Vast-field of ML**
   
-- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about: "Any of the AI field technologies"
   
-- 💬 Ask me about ...
+- 📄 Know about my experiences: [https://github.com/naman648/RESUME]
   
-- 📫 How to reach me: ...
+- 📫 How to reach me: **namanverma648@gmail.com**
   
-- 😄 Pronouns: ...
+- 😄 Pronouns: **He/Him**
   
-- ⚡ Fun fact: ...
-
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vanshmehta22914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vanshmehta22914" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansh-mehta-8867b8275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-mehta-8867b8275" height="30" width="40" /></a>
-<a href="https://instagram.com/mvansh_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mvansh_2005" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/namanverma648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namanverma648" height="30" width="40" /></a>
+<a href="https://instagram.com/naman_v01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman_v01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,21 +41,15 @@ Frameworks & APIs: VS Code, Jupyter Notebook, MS-Office, Flask, REST-API
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a> 
-  -----
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvanshbu0681&show_icons=true&locale=en&layout=compact" alt="mvanshbu0681" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvanshbu0681&show_icons=true&locale=en" alt="mvanshbu0681" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman648" alt="naman648" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvanshbu0681&" alt="mvanshbu0681" /></p>
+<img src="https://d3frb2mbny706b.cloudfront.net/naman648" width="600">
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naman648)](https://git.io/streak-stats) -->
+
 
